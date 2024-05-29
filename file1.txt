@@ -1,1 +1,2 @@
 data from file one
+making changes to create conflic in sub-branch1
