@@ -1,2 +1,3 @@
 data from file one
 making changes to create conflic in branch1 
+making changes to create conflic in branch1 again
